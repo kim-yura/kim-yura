@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning software engineering at App Academy
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me yurakim.designs@gmail.com
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-yura)](https://github.com/kim-yura/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-yura)](https://github.com/kim-yura/github-readme-stats)
 
 
 <!---
