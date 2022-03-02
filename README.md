@@ -34,6 +34,9 @@
 
 <p align="center">👩🏻‍💻</p>
 
+<p align="center">Let's connect!</p>
+<p align="center">yurakim.designs@gmail.com</p>
+
 <!---
 kim-yura/kim-yura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
