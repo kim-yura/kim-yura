@@ -1,3 +1,15 @@
+<p align="center">Academic researcher in a past life, looking forward to gaining meaningful experience with full stack software engineer opportunities!</p>
+<p align="center">Whether it be through a qualitative, ethnography-based lens, or through hard coding sessions, I enjoy solving problems and analyzing data.</p>
+<p align="center">I have a passion for software that not oly works great, but is designed in beautiful and intuitive ways.</p>
+<p align="center">My favorite languages are JavaScript and Python.</p>
+
+<div align="center">
+  <h3>Languages</h3>
+  [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
+  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+</div>
+
 - 👋 Hi, I’m @kim-yura
 - 👀 I’m interested in coding, gaming, knitting, and general nerdy things
 - 🌱 I’m currently learning software engineering at App Academy
