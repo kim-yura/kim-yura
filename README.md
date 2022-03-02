@@ -1,20 +1,41 @@
 <p align="center">Academic researcher in a past life, looking forward to gaining meaningful experience with full stack software engineer opportunities!</p>
 <p align="center">Whether it be through a qualitative, ethnography-based lens, or through hard coding sessions, I enjoy solving problems and analyzing data.</p>
-<p align="center">I have a passion for software that not oly works great, but is designed in beautiful and intuitive ways.</p>
-<p align="center">My favorite languages are JavaScript and Python.</p>
+<p align="center">I have a passion for software that not only works great, but is designed in beautiful and intuitive ways.</p>
 
-<div align="center">
-  <h3>Languages</h3>
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-</div>
+<p align="center">👩🏻‍💻</p>
 
-- 👋 Hi, I’m @kim-yura
-- 👀 I’m interested in coding, gaming, knitting, and general nerdy things
-- 🌱 I’m currently learning software engineering at App Academy
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me yurakim.designs@gmail.com
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href=#><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-yura)](https://github.com/kim-yura/github-readme-stats)
+<p align="center">👩🏻‍💻</p>
+<h3 align="center">Technologies</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="ExpressJS"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+<p align="center">
+  ...and more!
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kim-yura&theme=bear" />
+</p>
+
+<p align="center">👩🏻‍💻</p>
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
 
 <!---
