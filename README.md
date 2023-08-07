@@ -35,10 +35,6 @@
   ...and more!
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kim-yura&theme=bear" />
-</p>
-
 <p align="center">👩🏻‍💻</p>
 
 <p align="center">Let's connect!</p>
