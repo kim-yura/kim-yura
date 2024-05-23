@@ -1,3 +1,5 @@
+<h3>Find me here!: <a href="https://github.com/yurakim-bcm">@yurakim-bcm</a></h3>
+
 <p align="center">Academic researcher in a past life, looking forward to gaining meaningful experience with full stack software engineer opportunities!</p>
 <p align="center">Whether it be through a qualitative, ethnography-based lens, or through hard coding sessions, I enjoy solving problems and analyzing data.</p>
 <p align="center">I have a passion for software that not only works great, but is designed in beautiful and intuitive ways.</p>
